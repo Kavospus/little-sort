@@ -11,7 +11,7 @@ def sort(list)
 			end
 		end
 	end
-	list
+	return list
 end
 
 
