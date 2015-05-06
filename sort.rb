@@ -11,7 +11,7 @@ def sort(list)
 			end
 		end
 	end
-	return list[list.size-1] + list
+	return  list << list.first
 end
 
 
